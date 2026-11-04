@@ -1,73 +1,74 @@
-# AI Agents 101 – Certification
+# AI Agents 201: Design to Deployment – A Hands-On Guide to Multi-Agent Systems
 
-![AI Agents](https://img.shields.io/badge/AI-Agents-blueviolet)
-![LLMs](https://img.shields.io/badge/LLMs-Large%20Language%20Models-blue)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-green)
+![AI Agents](https://img.shields.io/badge/AI-Multi--Agent%20Systems-blueviolet)
+![Google ADK](https://img.shields.io/badge/Google-ADK-blue)
+![AMD](https://img.shields.io/badge/AMD-Developer%20Cloud-red)
+![LLM](https://img.shields.io/badge/LLM-Open%20Source-green)
 
 ## 📌 About the Course
 
-Successfully completed **AI Agents 101**, a hands-on introductory course focused on transforming Large Language Models (LLMs) into practical, autonomous AI agents capable of reasoning, interacting with external tools, and performing real-world tasks.
+Completed **AI Agents 201: Design to Deployment – A Hands-On Guide to Multi-Agent Systems**, a hands-on course focused on designing, running, and deploying AI agent applications using Google Agent Development Kit (ADK), AMD Developer Cloud, and open-source AI tools.
 
-The course covered the ReAct (Reason + Act) paradigm, AI agent architectures, tool integration, Model Context Protocol (MCP), and open-source model deployment using vLLM.
+The course explored running Google ADK applications on your own hardware and AMD infrastructure using open-source inference solutions such as vLLM and Ollama.
 
-It also provided practical exposure to building custom AI agents using **PydanticAI**, integrating MCP servers, and working with open-source models such as **Qwen3**.
+It also covered reducing dependencies on Google Cloud services, integrating locally served open-source Large Language Models (LLMs), and exploring interoperability between different agent frameworks.
 
 ## 🎯 Learning Objectives
 
-- Understand the difference between traditional LLMs and AI agents.
-- Explore the ReAct (Reason + Act) paradigm for agent reasoning and decision-making.
-- Deploy OpenAI-compatible inference endpoints using vLLM on AMD GPUs.
-- Build reasoning and action-taking agents using PydanticAI.
-- Develop custom tools to provide agents with access to real-time information.
-- Integrate MCP (Model Context Protocol) servers for standardized tool communication.
-- Combine multiple MCP servers to enable intelligent tool selection and execution.
-- Explore open-source LLM deployment using Qwen3.
+- Understand Google Agent Development Kit (ADK) and its capabilities.
+- Explore running Google ADK on your own hardware using AMD Developer Cloud.
+- Understand open-source LLM deployment using vLLM and Ollama.
+- Learn how to serve open-source language models locally.
+- Explore AMD Instinct™ GPUs for AI inference workloads.
+- Understand how to detach ADK applications from Google Cloud dependencies.
+- Explore interoperability between different AI agent frameworks.
+- Understand the benefits of locally hosted models for data privacy, infrastructure control, and cost optimization.
 
-## 🛠️ Technologies & Concepts Covered
+## 🛠️ Technologies & Tools Covered
 
 | Technology | Description |
 |---|---|
-| LLMs | Large Language Models and their capabilities |
-| AI Agents | Autonomous reasoning and task execution |
-| ReAct | Reasoning and Acting paradigm |
-| Python | Agent development and implementation |
-| PydanticAI | Framework for building AI agents |
-| MCP | Standardized integration of external tools and services |
+| Google ADK | Framework for developing AI agents |
+| AMD Developer Cloud | Cloud infrastructure for AI development |
+| AMD Instinct™ GPUs | GPU acceleration for AI workloads |
 | vLLM | High-performance LLM inference and serving |
-| Qwen3 | Open-source Large Language Model |
-| AMD GPUs | GPU-based AI model inference |
+| Ollama | Running and managing open-source LLMs locally |
+| Open-source LLMs | Locally hosted language models |
+| Multi-Agent Systems | Collaboration between multiple AI agents |
 
 ## 💡 Key Takeaways
 
-- Gained foundational knowledge of AI agent architecture and workflows.
-- Understood how agents use reasoning and tools to accomplish tasks.
-- Explored custom tool development and real-time data integration.
-- Learned how MCP servers extend agent capabilities through standardized interfaces.
-- Gained introductory exposure to open-source LLM deployment and inference.
+- Gained foundational knowledge of multi-agent system development.
+- Explored Google ADK for building AI agent applications.
+- Understood local LLM inference using vLLM and Ollama.
+- Explored reducing dependencies on cloud-specific services.
+- Learned about interoperability between agent frameworks and locally served open-source models.
+- Understood the importance of data privacy, cost control, and infrastructure flexibility in AI deployments.
 
 ## 📜 Certificate
 
-![AI Agents 101 Certificate](./101.pdf)
+[View Certificate (PDF)](./201.pdf)
 
 ## 📂 Repository Structure
 
 ```text
-AI-Agents-101/
+AI-Agents-201/
 │
-├── certificate.png
+├── 201.pdf
 └── README.md
 ```
 
 ## 🚀 Future Learning Goals
 
-- Explore advanced MCP integrations.
-- Experiment with open-source LLMs and local inference.
-- Integrate AI agent capabilities into backend applications.
+- Build practical multi-agent applications using Google ADK.
+- Experiment with local LLM deployment using Ollama and vLLM.
+- Explore MCP integration with agent applications.
+- Develop multi-agent workflows and orchestration.
+- Explore integration of AI agents with backend applications.
 
 ---
 
-**Course:** AI Agents 101  
+**Course:** AI Agents 201: Design to Deployment – A Hands-On Guide to Multi-Agent Systems  
 **Domain:** Artificial Intelligence & Generative AI  
-**Focus:** LLMs, AI Agents, Tool Calling, MCP & Open-Source Model Deployment  
-**Level:** Introductory – Hands-on
-
+**Focus:** Multi-Agent Systems, Google ADK, vLLM, Ollama & AMD GPU Infrastructure  
+**Level:** Hands-on
