@@ -47,7 +47,7 @@ It also provided practical exposure to building custom AI agents using **Pydanti
 
 ## 📜 Certificate
 
-![AI Agents 101 Certificate](./certificate.png)
+![AI Agents 101 Certificate](./101.pdf)
 
 ## 📂 Repository Structure
 
